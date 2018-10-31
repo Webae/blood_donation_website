@@ -1,0 +1,122 @@
+h3{
+	margin: 1px, 0.5px,0px,0px;
+	width: 40%;
+	font-size: 28px;
+	line-height: 40px;
+	background: rgba(255,0,0,0.4);
+	border: 2px 2px 2px 2px groove #fff;
+	padding: 25px;
+	margin-top:50px;
+	margin-left:400px;
+	color: white;
+	border-radius: 0 10px 0 10px;
+	font-family: 'Muli', sans-serif;
+}
+
+h5{
+	margin: 1px, 0.5px,0px,0px;
+	width: 30%;
+	line-height: 25px;
+	background: rgba(255,0,0,0.4);
+	border: 2px 2px 2px 2px groove #fff;
+	padding: 25px;
+	margin-top:50px;
+	margin-left:400px;
+	color: white;
+	border-radius: 0 10px 0 10px;
+	font-family: 'Muli', sans-serif;
+}
+ body  {
+    background: url('../images/loginp.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+         }
+
+.forml{
+	width:40%;
+	border-style:groove;
+	background-color:rgba(100,100,100,0.2);
+	border-width:2px,2px,2px,2px;
+	border-color:black;
+	border-radius: 5px;
+	padding:25px;
+	margin:25px;
+	margin-left:400px;
+	font: 20px Arial, Helvetica, sans-serif;
+	color:#2B1B17;	
+	
+	
+	
+	
+
+}
+
+.forms{
+	width:40%;
+	border-style:groove;
+	background-color:rgba(100,100,100,0.2);
+	border-width:2px,2px,2px,2px;
+	border-color:black;
+	border-radius: 5px;
+	padding:25px;
+	margin:25px;
+	margin-left:400px;
+	font: 14px Arial, Helvetica, sans-serif;
+	color:#2B1B17;	
+	input[type=button] {
+    	font: 30px Comic Sans MS;	
+    	background-color:input[type=button] {
+    font: 30px Comic Sans MS;	
+    background-color:#FA58D0;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+   border-radius: 8px;
+    cursor: pointer;
+};
+    	color: white;
+    	padding: 12px 20px;
+    	border: none;
+   	border-radius: 8px;
+    	cursor: pointer;
+}
+	
+}
+ 	
+input[type=text], input[type=password], input[type=email], input[type=tel], #bloodgroup{
+     color : #990012;
+     box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 50%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #0C090A;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    height: 45px;
+}
+input[type=button] {
+    font: 30px Comic Sans MS;	
+    background-color:#F75D59;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+   border-radius: 8px;
+    cursor: pointer;
+}
+
+input[type=submit] {
+    font: 30px Comic Sans MS;	
+    background-color:#F75D59;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+   border-radius: 8px;
+    cursor: pointer;
+}
